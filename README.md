@@ -1,4 +1,4 @@
-# tutorial-app
+# To Do List Vue
 
 ## Project setup
 ```
