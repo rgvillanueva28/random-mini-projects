@@ -1,6 +1,5 @@
 # Useful Resources
 
-
 ### Colors
 
 [Material Design Pallettes](https://www.materialpalette.com/)<br>
@@ -10,16 +9,13 @@
 ### Converter
 
 [App Icon Generator](https://appicon.co/) - Image to Mobile Application Icons Generator<br>
-[Vecteezy](https://www.vecteezy.com/) - Vectors, cliparts, images, etc.<br>
 [Canva](https://www.canva.com/) - Image editor<br>
 <br>
-
 
 ### Design
 
 [Uplabs](https://www.uplabs.com/)<br>
 <br>
-
 
 ### Fonts
 
@@ -36,6 +32,7 @@
 ### Image
 
 [Lorem Picsum](https://picsum.photos/) - Random Photo Generator<br>
+[Vecteezy](https://www.vecteezy.com/) - Vectors, cliparts, images, etc.<br>
 <br>
 
 ### Sounds
