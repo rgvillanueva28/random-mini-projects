@@ -32,6 +32,7 @@
 ### Image
 
 [Lorem Picsum](https://picsum.photos/) - Random Photo Generator<br>
+[Getwaves](https://getwaves.io/) - SVG Wave generator<br>
 [Vecteezy](https://www.vecteezy.com/) - Vectors, cliparts, images, etc.<br>
 <br>
 
