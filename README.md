@@ -1,2 +1,2 @@
-# random-trash-and-shits
-For testing Random Trash and Shits
+# random-mini-projects
+For testing Random Mini Projects
