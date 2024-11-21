@@ -42,7 +42,7 @@ removeRow = () => {
   let rowCount = tbl.rows.length;
 
   if (rowCount === 1) {
-    alert("Last na nga dedelete mo pa? Gago ka ba?");
+    alert("Last na nga dedelete mo pa?");
   } else {
     tbl.deleteRow(rowCount - 1);
   }
@@ -73,7 +73,7 @@ async function compute() {
 
   if (Number.isNaN(totalGrade) || Number.isNaN(totalUnits)) {
     alert(
-      "Lagyan mo lahat ng GRADE at UNITS. Kung hindi tanggalin mo nalang lahat ng blangko."
+      "Lagyan mo lahat ng GRADE at UNITS. Kung hindi, tanggalin mo nalang lahat ng blangko."
     );
   } else {
     var row = tbl.insertRow(-1);
@@ -98,7 +98,7 @@ async function compute() {
       gwaText.innerHTML +=
         "<br />" + "<b>Half Academic Scholarship.</b> Congrats.";
     } else {
-      gwaText.innerHTML += "<br />" + "'Di abot sa scholarship bui.";
+      gwaText.innerHTML += "<br />" + "'Di abot sa scholarship. Bawi next term!";
     }
   }
 }
